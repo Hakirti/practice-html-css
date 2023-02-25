@@ -2,3 +2,22 @@ h1
 {  
   text-align: center;
 }
+a.nostyle:link {
+  text-decoration: inherit;
+  color: #000000;
+  cursor: auto;
+}
+
+a.nostyle:visited {
+  text-decoration: inherit;
+  color: #000000;
+  cursor: auto;
+}
+
+a.nostyle:hover
+{
+  color: blue;
+}
+.button{
+  text-align:center;
+}
